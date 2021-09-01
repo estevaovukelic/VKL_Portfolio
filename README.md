@@ -2,7 +2,6 @@
 Data Science Portfolio
 
 ## [Regression Project: New York City Taxi Fare Prediction](https://github.com/estevaovukelic/Regressions/blob/main/New_York_City_Taxi_Fare_Prediction.ipynb)
-Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 
 - File descriptions train.csv - Input features and target fare_amount values for the training set (about 55M rows). test.csv - Input features for the test set    (about 10K rows). Your goal is to predict fare_amount for each row. 
 
@@ -14,6 +13,7 @@ Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 - Best and fast model: XGBoost.
 - Submission in Kaggle: **RMSE** 3.71675
 
+Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 
 
 ## [Binary Classification Project: Analysing Employee Attrition ](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
