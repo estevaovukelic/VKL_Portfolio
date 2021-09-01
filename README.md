@@ -8,7 +8,11 @@ Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 
 
 - Predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
-- Estimate based on just the distance between the two points, this will result in an **RMSE** of $5-$8
+- Estimate based on just the distance between the two points, this will result in an **RMSE** of $5-$8.
+- Engineering features.
+- Training with: Linear Regression,Ridge, Lasso, Nearest Neighbors,Decision Tree, Random Forest,Gradient Boosting, XGBoost and Deep Learning.
+- Best and fast model: XGBoost.
+- Submission in Kaggle: **RMSE** 3.71675
 
 
 
