@@ -1,7 +1,7 @@
 # VKL_Portfolio
 Data Science Portfolio
 
-## New York City Taxi Fare Prediction
+## [Regression Project: New York City Taxi Fare Prediction](https://github.com/estevaovukelic/Regressions/blob/main/New_York_City_Taxi_Fare_Prediction.ipynb)
 Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 
 Description:
