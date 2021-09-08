@@ -24,4 +24,4 @@ Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 - Converting categorical variables to dummy variables.
 - Concatenating dataframes.
 - Using Smote to Balance Class.
-- Training with: Logistic Regression,Ridge, Gradient Boosting Classifier, Random forest,S V C.
+- Training with: Logistic Regression,Ridge, Gradient Boosting Classifier, Random forest and S V C.
