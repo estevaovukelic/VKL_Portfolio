@@ -17,3 +17,11 @@ Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
 
 
 ## [Binary Classification Project: Analysing Employee Attrition ](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
+
+ Factors that lead to employee attrition are explored such as: distance from home to work and job loss, average monthly income from schooling, and job loss. This is a fictional dataset created by IBM data scientists.
+- Exploration and processing of data.
+- Data analysis and preprocessing.
+- Converting categorical variables to dummy variables.
+- Concatenating dataframes.
+- Using Smote to Balance Class.
+- Training with: Logistic Regression,Ridge, Gradient Boosting Classifier, Random forest,S V C.
