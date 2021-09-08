@@ -13,8 +13,7 @@ Data Science Portfolio
 - Submission in Kaggle: **RMSE** 3.71675
 
 
-## [Binary Classification Project: Customer Segmentation
-](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
+## [Binary Classification Project: Customer Segmentation](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
 
  Factors that lead to employee attrition are explored such as: distance from home to work and job loss, average monthly income from schooling, and job loss. This is a fictional dataset created by IBM data scientists.
  
@@ -26,7 +25,7 @@ Data Science Portfolio
 - Training with: Logistic Regression,Ridge, Gradient Boosting Classifier, Random forest and S V C.
 
 
-## [Cluster Project: Analysing Employee Attrition ](https://github.com/estevaovukelic/Clusters/blob/main/Customer_Segmentation_I.ipynb)
+## [Cluster Project: Customer_Segmentation_I](https://github.com/estevaovukelic/Clusters/blob/main/Customer_Segmentation_I.ipynb)
 
 We will identify, study, analyze, treat and group the data in order to apply the best marketing strategy that each group requires.
 
