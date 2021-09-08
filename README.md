@@ -13,8 +13,6 @@ Data Science Portfolio
 - Best and fast model: XGBoost.
 - Submission in Kaggle: **RMSE** 3.71675
 
-Kaggle: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview.
-
 
 ## [Binary Classification Project: Analysing Employee Attrition ](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
 
