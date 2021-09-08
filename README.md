@@ -1,5 +1,5 @@
 # VKL_Portfolio
-Data Science Portfolio
+Data Science Portfolio of Estevão A Vukelic
 
 ## [Regression Project: New York City Taxi Fare Prediction](https://github.com/estevaovukelic/Regressions/blob/main/New_York_City_Taxi_Fare_Prediction.ipynb)
 
@@ -23,6 +23,19 @@ Data Science Portfolio
 - Concatenating dataframes.
 - Using Smote to Balance Class.
 - Training with: Logistic Regression,Ridge, Gradient Boosting Classifier, Random forest and S V C.
+
+
+## [Cluster Project: Customer_Segmentation_I](https://github.com/estevaovukelic/Clusters/blob/main/Customer_Segmentation_I.ipynb)
+
+We will identify, study, analyze, treat and group the data in order to apply the best marketing strategy that each group requires.
+
+- We will use pandas, numpy, seaborn, matplotlib and grouping with KMeans and PCA.
+- Exploration and processing of data.
+- Data analysis and preprocessing.
+- Elbow Method.
+- Grouping,
+- Concatenating dataframes.
+- Visualization of Clusters using PCA to transform data to 2 dimensions
 
 
 ## [Cluster Project: Customer_Segmentation_I](https://github.com/estevaovukelic/Clusters/blob/main/Customer_Segmentation_I.ipynb)
