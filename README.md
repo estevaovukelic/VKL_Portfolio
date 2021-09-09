@@ -38,16 +38,8 @@ We will identify, study, analyze, treat and group the data in order to apply the
 - Visualization of Clusters using PCA to transform data to 2 dimensions
 
 
-## [Cluster Project: Customer_Segmentation_I](https://github.com/estevaovukelic/Clusters/blob/main/Customer_Segmentation_I.ipynb)
+## [PLN - Buscas de palavras em textos com spaCy](https://github.com/estevaovukelic/NLP/blob/main/PLN_Buscas_de_palavras_em_textos_com_spaCy.ipynb)
 
-We will identify, study, analyze, treat and group the data in order to apply the best marketing strategy that each group requires.
 
-- We will use pandas, numpy, seaborn, matplotlib and grouping with KMeans and PCA.
-- Exploration and processing of data.
-- Data analysis and preprocessing.
-- Elbow Method.
-- Grouping,
-- Concatenating dataframes.
-- Visualization of Clusters using PCA to transform data to 2 dimensions
 
 
