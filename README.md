@@ -11,7 +11,9 @@ Data Science Portfolio of Estevão A Vukelic
 - Training with: Linear Regression,Ridge, Lasso, Nearest Neighbors,Decision Tree, Random Forest,Gradient Boosting, XGBoost and Deep Learning.
 - Best and fast model: XGBoost.
 - Submission in Kaggle: **RMSE** 3.71675
+## [Regression Project:  Rossmann Store Sales](https://github.com/estevaovukelic/Regressions/blob/main/RossmannStoreSales.ipynb)
 
+Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
 ## [Binary Classification Project: Customer Segmentation](https://github.com/estevaovukelic/Binary_classification-/blob/main/Analysing_Employee_Attrition.ipynb)
 
@@ -41,5 +43,5 @@ We will identify, study, analyze, treat and group the data in order to apply the
 ## [PLN - Buscas de palavras em textos com spaCy](https://github.com/estevaovukelic/NLP/blob/main/PLN_Buscas_de_palavras_em_textos_com_spaCy.ipynb)
 
 
-
+## [Análise de Preços das Ações do Magazine Luiza](https://github.com/estevaovukelic/Stock_price_Magalu)
 
